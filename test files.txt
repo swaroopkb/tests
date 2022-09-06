@@ -1,6 +1,11 @@
 test
 <<<<<<< HEAD
+<<<<<<< HEAD
 changes made from testagain2
 =======
 Added this change from test-again
 >>>>>>> 0716773 (test-again changes)
+=======
+Added this change from test-again
+changes made from testagain2
+>>>>>>> origin
